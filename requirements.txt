@@ -21,7 +21,7 @@ rich==13.7.0
 lxml==6.1.0  # debrief
 svglib==1.5.1  # debrief
 Markdown==3.8.1  # training
-dnspython==2.6.1
+dnspython==2.9.0
 asyncssh==2.23.1
 aioftp==0.27.2
 packaging==23.2
