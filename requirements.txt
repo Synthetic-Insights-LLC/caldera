@@ -19,7 +19,7 @@ pyasn1==0.6.4
 reportlab==4.0.4  # debrief
 rich==13.7.0
 lxml==6.1.0  # debrief
-svglib==1.5.1  # debrief
+svglib==2.3.1  # debrief
 Markdown==3.8.1  # training
 dnspython==2.6.1
 asyncssh==2.23.1
